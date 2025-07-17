@@ -1,18 +1,56 @@
-## G' Day
+## 👋 Hi there! I'm [Your Name]
 
+I'm a developer with hands-on experience in **frontend and PHP development** through a **4-month internship**.  
+Currently majoring in **Management Information Systems** and **Software Convergence**, I enjoy building web applications and learning new technologies.
 
+---
 
-<!--
-**theosdore/theosdore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech Stack
 
-Here are some ideas to get you started:
+- **Languages**:  
+  ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- **Web Development**:
+  - HTML, CSS, JavaScript, PHP
+  - Basic frontend UI implementation
+  - Backend integration using PHP
+
+---
+
+### 💼 Internship Experience
+
+- **Frontend & PHP Developer Intern**  
+  - Duration: 4 months  
+  - Responsibilities:  
+    - Maintained and updated web pages  
+    - Developed simple UI components  
+    - Assisted in backend functionality using PHP  
+
+---
+
+### 🎓 Education
+
+- **Major**: Management Information Systems  
+- **Double Major / Convergence**: Software Convergence  
+
+---
+
+### 📫 Contact
+
+- 📧 Email: [your.email@example.com]  
+- 🌐 Portfolio: [your portfolio link or GitHub Pages]  
+- 🔗 LinkedIn (optional): [your LinkedIn URL]
+
+---
+
+<!-- Visitor badge (optional) -->
+<!-- ![Visitor](https://komarev.com/ghpvc/?username=your-github-id&color=blue) -->
+
+<!-- GitHub stats (optional) -->
+<!-- 
+![your-github-id's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-id&show_icons=true&theme=default)
 -->
