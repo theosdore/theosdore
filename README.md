@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm [Your Name]
+## 👋 Hi there! I'm [Aiden]
 
 I'm a developer with hands-on experience in **frontend and PHP development** through a **4-month internship**.  
 Currently majoring in **Management Information Systems** and **Software Convergence**, I enjoy building web applications and learning new technologies.
@@ -41,9 +41,7 @@ Currently majoring in **Management Information Systems** and **Software Converge
 
 ### 📫 Contact
 
-- 📧 Email: [your.email@example.com]  
-- 🌐 Portfolio: [your portfolio link or GitHub Pages]  
-- 🔗 LinkedIn (optional): [your LinkedIn URL]
+- 📧 Email: [shine379@naver.com]  
 
 ---
 
