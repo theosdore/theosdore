@@ -34,9 +34,9 @@ I majored in **Management Information Systems** and **Software Convergence**, I 
 
 ### 🎓 Education
 
-- **Major**: Management Information Systems  
-- **Double Major / Convergence**: Software Convergence  
-
+- **Major (2025/08)**: Management Information Systems  
+- **Double Major / Convergence*(2025/08)*: Software Convergence
+- ""Ssafy(2025/08~)"" :  The software development bootcamp organized by Samsung
 ---
 
 ### 📫 Contact
