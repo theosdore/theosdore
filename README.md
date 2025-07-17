@@ -1,7 +1,7 @@
-## 👋 Hi there! I'm [Aiden]
+## 👋 Hi there! I'm **Aiden**
 
 I'm a developer with hands-on experience in **frontend and PHP development** through a **4-month internship**.  
-Currently majoring in **Management Information Systems** and **Software Convergence**, I enjoy building web applications and learning new technologies.
+I majored in **Management Information Systems** and **Software Convergence**, I enjoy building web applications and learning new technologies.
 
 ---
 
